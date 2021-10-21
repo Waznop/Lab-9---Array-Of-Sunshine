@@ -15,6 +15,7 @@ For this assignment, you will write a series of functions that calculate basic s
 * `statistics_test.cpp` - Your tests go here.
 * `statistics.h` - Header file for `statistics.cpp`, already written for you.
 * `main.cpp` - Contains main function if you want to run the functions in `statistics.cpp`.
+* `googletest/` - Contains code for the GoogleTest framework.
 
 **Do not change any files other than `statistics.cpp` and `statistics_test.cpp`!**
 
